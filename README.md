@@ -23,6 +23,5 @@ Aquí subiré modelos, experimentos y notebooks donde aplico diferentes métodos
 📂 **Estructura general:**
  
 1.- Regresion lineal por minimos cuadrados para predecir el peso usando la estatura.
-
-2.-Regresión Lineal por minimos cuadrados para predecir acides usando caseina presente en la leche en polvo y leche cruda.
+2.- Regresion lineal por minimos cuadrados para predecir la acidez usando la caseina presente en la leche en polvo y la leche cruda.
 
