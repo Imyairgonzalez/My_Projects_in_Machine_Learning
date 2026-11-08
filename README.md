@@ -5,11 +5,12 @@ Repositorio para documentar y compartir mis primeros proyectos y experimentos en
 ## Contenido
 
 ```text
-.
+
 ├── Analisis_Hebra.ipynb
 ├── Derivation_of_the_Normal.ipynb
 ├── golf.ipynb
 ├── least_squares.ipynb
+├── mnist.ipynb
 └── Pruebas_Correlacion.ipynb
 ```
 
